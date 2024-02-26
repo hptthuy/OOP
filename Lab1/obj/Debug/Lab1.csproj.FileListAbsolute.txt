@@ -1,0 +1,7 @@
+D:\hptthuy\suject\LTHDT_\OOP_Toit4\Lab1\bin\Debug\Lab1.exe.config
+D:\hptthuy\suject\LTHDT_\OOP_Toit4\Lab1\bin\Debug\Lab1.exe
+D:\hptthuy\suject\LTHDT_\OOP_Toit4\Lab1\bin\Debug\Lab1.pdb
+D:\hptthuy\suject\LTHDT_\OOP_Toit4\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\hptthuy\suject\LTHDT_\OOP_Toit4\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\hptthuy\suject\LTHDT_\OOP_Toit4\Lab1\obj\Debug\Lab1.exe
+D:\hptthuy\suject\LTHDT_\OOP_Toit4\Lab1\obj\Debug\Lab1.pdb
